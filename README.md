@@ -77,7 +77,7 @@ cloudexe --gpuspec EUNH100_0.14x1 -- /root/swissknife-env/bin/python /root/scrip
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/swissknife.git
+git clone https://github.com/Innit-Bruv/swissknife.git
 cd swissknife
 ```
 
